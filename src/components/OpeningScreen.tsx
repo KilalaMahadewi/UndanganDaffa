@@ -30,7 +30,7 @@ export default function OpeningScreen({ onOpen, isOpen }: OpeningScreenProps) {
             className="text-center z-10 p-6 flex flex-col items-center w-full max-w-md"
           >
             <h2 className="font-sans text-sage-600 tracking-[0.3em] uppercase text-xs font-semibold mb-4">Undangan</h2>
-            <h1 className="font-script text-5xl md:text-6xl text-sage-700 mb-8 drop-shadow-sm">Tasyakuran Khotmil Qur'an</h1>
+            <h1 className="font-script text-5xl md:text-6xl text-sage-700 mb-8 drop-shadow-sm">Walimatul Khitan bi Khotmil Quran</h1>
             
             <motion.div 
               className="relative w-52 h-52 rounded-full overflow-hidden border-8 border-white shadow-xl mb-12 flex items-center justify-center bg-sage-200 ring-4 ring-sage-100"

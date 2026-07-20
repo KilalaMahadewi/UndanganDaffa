@@ -48,7 +48,7 @@ export default function StickerPage() {
               {/* Text below photo */}
               <div className="text-center flex flex-col items-center gap-0.5">
                 <p className="font-sans font-semibold text-[6px] tracking-[0.18em] text-[#4A6741] uppercase">
-                  Tasyakuran Khotmil Qur'an
+                  Walimatul Khitan bi Khotmil Quran
                 </p>
                 <p className="font-script text-[14px] text-[#2c4a28] leading-none">
                   Daffa Ibnu Hafidz

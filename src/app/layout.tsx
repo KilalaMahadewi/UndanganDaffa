@@ -15,8 +15,8 @@ const greatVibes = Great_Vibes({
 });
 
 export const metadata: Metadata = {
-  title: "Tasyakuran Khotmil Qur'an - Daffa Ibnu Hafidz",
-  description: "Undangan digital Tasyakuran Khotmil Qur'an Daffa Ibnu Hafidz",
+  title: "Walimatul Khitan bi Khotmil Quran - Daffa Ibnu Hafidz",
+  description: "Undangan digital Walimatul Khitan bi Khotmil Quran Daffa Ibnu Hafidz",
 };
 
 export default function RootLayout({
